@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Fuzzy Metaballs: Approximate Differentiable Rendering with Algebraic Surfaces"
-date:   2022-07-21 22:21:59 +00:00
+title:  "Async-RED: A provably convergent asynchronous block parallel stochastic method using deep denoising priors"
+date:   2021-07-21 22:21:59 +00:00
 image: /images/fuzzy22.png
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
-venue: "European Conference on Computer Vision (Oral)"
-arxiv: https://arxiv.org/abs/2207.10606
-code: https://github.com/leonidk/fuzzy-metaballs
-website: https://leonidk.github.io/fuzzy-metaballs/
-youtube: https://www.youtube.com/watch?v=Ec7cxEc9eOU
+author: "Yiran Sun"
+authors: "Yu Sun, Jiaming Liu, <strong>Yiran Sun</strong>, Brendt Wohlberg, Ulugbek S. Kamilov"
+venue: "International Conference on Learning Representations (Spotlight)"
+arxiv: https://arxiv.org/abs/2010.01446
+code: 
+website: https://iclr.cc/virtual/2021/spotlight/3400
+youtube: https://iclr.cc/virtual/2021/spotlight/3400
 ---
-An approximate differentiable renderer for a compact, interpretable representation, which we call Fuzzy Metaballs. Our approximate renderer focuses on rendering shapes via depth maps and silhouettes. It sacrifices fidelity for utility, producing fast runtimes and high-quality gradient information that can be used to solve vision tasks.
+We propose a new asynchronous RED (Async-RED) algorithm that enables asynchronous parallel processing of data, making it significantly faster than its serial counterparts for large-scale inverse problems. The computational complexity of Async-RED is further reduced by using a random subset of measurements at every iteration.
