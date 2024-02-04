@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Flexible Techniques for Differentiable Rendering with 3D Gaussians"
+title:  "CT Reconstruction from Few Planar X-rays with Application towards Low-resource Radiotherapy"
 date:   2023-08-28 22:21:59 +00:00
-image: /images/3dgaussian.jpg
+image: /images/RPA.png
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
-venue: "arXiv"
-arxiv: https://arxiv.org/abs/2308.14737
-code: https://github.com/leonidk/fmb-plus
-website: https://leonidk.github.io/fmb-plus
+author: "Yiran Sun"
+authors: "<strong>Yiran Sun</strong>, Tucker Netherton, Laurence Court, Ashok Veeraraghavan, Guha Balakrishnan"
+venue: "MICCAI Workshop on Deep Generative Models, 2023"
+arxiv: https://arxiv.org/abs/2308.02100
+code: https://github.com/wanderinrain/Xray2CT
+website: 
 ---
-We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
+We propose a deep generative model, building on advances in neural implicit representations to synthesize volumetric CT scans from few input planar X-ray images at different angles. 
