@@ -6,7 +6,7 @@ image: /images/RPA.png
 categories: research
 author: "Yiran Sun"
 authors: "<strong>Yiran Sun</strong>, Tucker Netherton, Laurence Court, Ashok Veeraraghavan, Guha Balakrishnan"
-venue: "MICCAI Workshop on Deep Generative Models, 2023"
+venue: "MICCAI Workshop on Deep Generative Models"
 arxiv: https://arxiv.org/abs/2308.02100
 code: https://github.com/wanderinrain/Xray2CT
 website: 
