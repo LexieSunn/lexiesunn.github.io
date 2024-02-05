@@ -2,7 +2,7 @@
 layout: post
 title:  "R2U-DDPM: A Conditional Diffusion Model with R2U-Net Guidance for Realistic PET Image Synthesis"
 date:   2024-02-04 22:21:59 +00:00
-image: /images/pairwise.png
+image: /images/pet.png
 categories: research
 author: "Yiran Sun"
 authors: "<strong>Yiran Sun</strong>, Osama Mawlawi"
