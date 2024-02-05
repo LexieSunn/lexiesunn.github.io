@@ -8,8 +8,6 @@ author: "Yiran Sun"
 authors: "Yu Sun, Jiaming Liu, <strong>Yiran Sun</strong>, Brendt Wohlberg, Ulugbek S. Kamilov"
 venue: "International Conference on Learning Representations (ICLR, Spotlight)"
 arxiv: https://arxiv.org/abs/2010.01446
-code: 
 website: https://iclr.cc/virtual/2021/spotlight/3400
-youtube: https://iclr.cc/virtual/2021/spotlight/3400
 ---
 We propose a new asynchronous RED (Async-RED) algorithm that enables asynchronous parallel processing of data, making it significantly faster than its serial counterparts for large-scale inverse problems. The computational complexity of Async-RED is further reduced by using a random subset of measurements at every iteration.
