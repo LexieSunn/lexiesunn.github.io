@@ -2,7 +2,7 @@
 layout: post
 title:  "PET Motion Correction Using a Supervised Deep Learning U-Shaped Transformer"
 date:   2024-02-03 22:21:59 +00:00
-image: /images/pairwise.png
+image: /images/motionpet.png
 categories: research
 author: "Yiran Sun"
 authors: "<strong>Yiran Sun</strong>, Joseph Meier, Osama Mawlawi"
