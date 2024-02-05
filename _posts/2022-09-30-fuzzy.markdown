@@ -2,7 +2,7 @@
 layout: post
 title:  "Async-RED: A provably convergent asynchronous block parallel stochastic method using deep denoising priors"
 date:   2021-07-21 22:21:59 +00:00
-image: /images/fuzzy22.png
+image: /images/asyn.png
 categories: research
 author: "Yiran Sun"
 authors: "Yu Sun, Jiaming Liu, <strong>Yiran Sun</strong>, Brendt Wohlberg, Ulugbek S. Kamilov"
