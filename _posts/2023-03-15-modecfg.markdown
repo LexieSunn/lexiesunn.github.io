@@ -6,7 +6,7 @@ image: /images/motionpet.png
 categories: research
 author: "Yiran Sun"
 authors: "<strong>Yiran Sun</strong>, Joseph Meier, Osama Mawlawi"
-venue: "The Society of Nuclear Medicine and Molecular Imaging Annual Meeting (SNMMI)"
+venue: "Under Review"
 arxiv: 
 code: 
 website: 
