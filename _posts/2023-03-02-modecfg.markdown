@@ -1,1 +1,14 @@
-
+---
+layout: post
+title:  "DiffPET: A Fine Tuned Sinogram-to-PET Conditional Diffusion Model"
+date:   2024-03-02 22:21:59 +00:00
+image: /images/pet.png
+categories: research
+author: "Yiran Sun"
+authors: "<strong>Yiran Sun</strong>, Osama Mawlawi"
+venue: "Under Review"
+arxiv: 
+code: 
+website: 
+---
+We propose a new simple but effective pipeline that utilize a second neural network to finetune the pre-trained cDDPM to generate high fidelity and realistic PET images from sinogram (w/ MRI optionally) inputs.
