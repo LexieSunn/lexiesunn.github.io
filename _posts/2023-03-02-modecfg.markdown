@@ -2,7 +2,7 @@
 layout: post
 title:  "DiffPET: A Fine Tuned Sinogram-to-PET Conditional Diffusion Model"
 date:   2024-03-02 22:21:59 +00:00
-image: /images/pet.png
+image: /images/sino2.png
 categories: research
 author: "Yiran Sun"
 authors: "<strong>Yiran Sun</strong>, Osama Mawlawi"
