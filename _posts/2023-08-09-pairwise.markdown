@@ -6,7 +6,7 @@ image: /images/pet.png
 categories: research
 author: "Yiran Sun"
 authors: "<strong>Yiran Sun</strong>, Osama Mawlawi"
-venue: "Under Review"
+venue: "Society of Nuclear Medicine and Molecular Imaging (SNMMI)"
 arxiv: 
 code: 
 website: 
