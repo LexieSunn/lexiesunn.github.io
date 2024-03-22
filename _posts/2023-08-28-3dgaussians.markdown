@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[CT Reconstruction from Few Planar X-Rays with Application Towards Low-Resource Radiotherapy](https://link.springer.com/chapter/10.1007/978-3-031-53767-7_22)"
+title: "[CT Reconstruction from Few Planar X-Rays with Application Towards Low-Resource Radiotherapy](https://link.springer.com/chapter/10.1007/978-3-031-53767-7_22) <a href="http://example.com/" target="_blank">Hello, world!</a>"
 date:   2023-08-28 22:21:59 +00:00
 image: /images/RPA.png
 categories: research
