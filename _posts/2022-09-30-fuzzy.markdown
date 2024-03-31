@@ -6,7 +6,7 @@ image: /images/asyn.png
 categories: research
 author: "Yiran Sun"
 authors: "Yu Sun, Jiaming Liu, <strong>Yiran Sun</strong>, Brendt Wohlberg, Ulugbek S. Kamilov"
-venue: "International Conference on Learning Representations (ICLR, Spotlight)"
+venue: "International Conference on Learning Representations (ICLR), Spotlight"
 arxiv: https://arxiv.org/abs/2010.01446
 code: https://github.com/wustl-cig/2021-ICLR-Async-RED
 website: https://iclr.cc/virtual/2021/spotlight/3400
