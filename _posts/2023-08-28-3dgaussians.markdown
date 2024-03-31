@@ -6,7 +6,7 @@ image: /images/RPA.png
 categories: research
 author: "Yiran Sun"
 authors: "<strong>Yiran Sun</strong>, Tucker Netherton, Laurence Court, Ashok Veeraraghavan, Guha Balakrishnan"
-venue: "Medical Image Computing and Computer-Assisted Intervention (MICCAI) Deep Generative Models Workshop, Oral Presentation"
+venue: "MICCAI Deep Generative Models Workshop (Oral Presentation)"
 arxiv: https://arxiv.org/abs/2308.02100
 code: https://github.com/wanderinrain/Xray2CT
 website: https://link.springer.com/chapter/10.1007/978-3-031-53767-7_22
