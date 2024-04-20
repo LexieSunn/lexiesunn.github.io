@@ -6,7 +6,7 @@ image: /images/pet.png
 categories: research
 author: "Yiran Sun"
 authors: "<strong>Yiran Sun</strong>, Osama Mawlawi"
-venue: "Society of Nuclear Medicine and Molecular Imaging Annual Meeting (SNMMI)"
+venue: "SNMMI (Oral presentation)"
 arxiv: 
 code: 
 website: 
