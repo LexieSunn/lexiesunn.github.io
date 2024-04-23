@@ -2,7 +2,7 @@
 layout: post
 title:  "DiffPVC: A Conditional Diffusion Model for Partial Volume Correction in Brain PET Imaging"
 date:   2024-03-03 22:21:59 +00:00
-image: /images/pvc2.png
+image: /images/1.png
 categories: research
 author: "Yiran Sun"
 authors: "<strong>Yiran Sun</strong>, Osama Mawlawi"
@@ -11,5 +11,5 @@ arxiv:
 code: 
 website: 
 ---
-We propose a novel post-reconstruction PVC method without prior anatomical information using a conditional diffusion model (DiffPVC). We also provide a strategy to accelerate model convergence to save training time (DiffPVC-Plus).
+We propose a novel post-reconstruction PVC method without prior anatomical information using a conditional diffusion model (DiffPVC).
 
