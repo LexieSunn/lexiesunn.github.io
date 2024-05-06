@@ -11,5 +11,5 @@ arxiv:
 code: 
 website: 
 ---
-
+We present a diffusion model-based pipeline to improve the quality of PET images from low performing (LP) PET scanners and compare the results to high performing (HP) systems.
 
