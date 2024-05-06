@@ -2,7 +2,7 @@
 layout: post
 title:  "Towards Uncertainty Estimation in PET Partial Volume Correction with a Diffusion Probabilistic Model"
 date:   2024-05-02 22:21:59 +00:00
-image: 
+image: /images/var.png
 categories: research
 author: "Yiran Sun"
 authors: "<strong>Yiran Sun</strong>, Osama Mawlawi"
