@@ -6,7 +6,7 @@ image: /images/11.png
 categories: research
 author: "Yiran Sun"
 authors: "<strong>Yiran Sun</strong>, Osama Mawlawi"
-venue: "Under Review"
+venue: "AAPM (Blue Ribbon Poster Presentation)"
 arxiv: 
 code: 
 website: 
