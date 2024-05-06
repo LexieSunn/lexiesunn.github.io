@@ -2,7 +2,7 @@
 layout: post
 title:  "Can Deep Learning Techniques Bridge the Disparity in Image Quality between Low and High-Performance PET Scanners"
 date:   2024-05-01 22:21:59 +00:00
-image: 
+image: /images/hp.png
 categories: research
 author: "Yiran Sun"
 authors: "<strong>Yiran Sun</strong>, Osama Mawlawi"
