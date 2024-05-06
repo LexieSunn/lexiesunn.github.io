@@ -11,6 +11,6 @@ arxiv:
 code: 
 website: 
 ---
-
+We estimate the statistical and systematic uncertainty of resultant images from a diffusion probabilistic model when applied to partial volume correction of brain PET images (DiffPVC).
 
 
