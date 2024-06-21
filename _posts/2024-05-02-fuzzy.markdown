@@ -6,7 +6,7 @@ image: /images/var.png
 categories: research
 author: "Yiran Sun"
 authors: "<strong>Yiran Sun</strong>, Osama Mawlawi"
-venue: "Under Review"
+venue: "EANM (Top Rated Oral presentation)"
 arxiv: 
 code: 
 website: 
